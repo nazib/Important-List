@@ -15,3 +15,15 @@
     -[Difeomorphic Image Registration by Geodesic shooting](http://www.fil.ion.ucl.ac.uk/~john/misc/CMIC_ReadingGroup270511.pdf)
     -[Morphometric Analysis](http://www.sbirc.ed.ac.uk/cyril/SPM-course/Talks/2013/2-Ashburner_Morphometry.pdf)
     -[A short Introduction to LDDMM](https://ani.stat.fsu.edu/GFDW/Slides_Tutorials/Trouve.pdf)
+
+# Blogs :b:
+- GAN
+  - [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/fro-GAN-to-WGAN.html)
+
+# Professor's Links :link:
+  -[CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
+  -[TUM Medical Imaging](http://campar.in.tum.de/Chair/TeachingWiSe2014CAMPONE)
+  -[NPTL Medical Imaging](https://www.youtube.com/playlist?list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM)
+  -[Special Seminar by Marc Neithamme](https://www.youtube.com/watch?v=JkkuQ5ToWyQ&t=3094s)
+  
+
