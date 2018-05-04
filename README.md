@@ -1,4 +1,4 @@
-# Interesting Papers :o:
+# Interesting Papers :v:
 
 - [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 - [Learning Structured Deformations using Diffeomorphic Registration](https://arxiv.org/pdf/1804.07172.pdf)
@@ -24,11 +24,10 @@
 - [TUM Medical Imaging](http://campar.in.tum.de/Chair/TeachingWiSe2014CAMPONE)
 - [NPTL Medical Imaging](https://www.youtube.com/playlist?list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM)
 - [Special Seminar by Marc Neithamme](https://www.youtube.com/watch?v=JkkuQ5ToWyQ&t=3094s)
-  
+- [University of Waterloo](https://cs.uwaterloo.ca/~jorchard/cs473/CS473/Lectures.html)
+
+
 # Books :books:
 - [Medical Image Registration by Joseph V Hajnal, D.L.G Hill](https://www.crcpress.com/Medical-Image-Registration/Hajnal-Hill/p/book/9780849300646)
 - [Numerical Methods for Image Registration by Jan Modersitzki](http://www.cas.mcmaster.ca/~modersit/Projects/NM4IR.shtml)
 - [FAIR Flexible Algorithms for Image Registration](http://www.cas.mcmaster.ca/~modersit/FAIR/index.shtml)
-  
-
-
