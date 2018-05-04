@@ -12,6 +12,6 @@
 
 # Interesting Lectures Slides
 - Difeomorphic Image Registration
-  -[Difeomorphic Image Registration by Geodesic shooting](http://www.fil.ion.ucl.ac.uk/~john/misc/CMIC_ReadingGroup270511.pdf)
-  -[Morphometric Analysis](http://www.sbirc.ed.ac.uk/cyril/SPM-course/Talks/2013/2-Ashburner_Morphometry.pdf)
-  -[A short Introduction to LDDMM](https://ani.stat.fsu.edu/GFDW/Slides_Tutorials/Trouve.pdf)
+    -[Difeomorphic Image Registration by Geodesic shooting](http://www.fil.ion.ucl.ac.uk/~john/misc/CMIC_ReadingGroup270511.pdf)
+    -[Morphometric Analysis](http://www.sbirc.ed.ac.uk/cyril/SPM-course/Talks/2013/2-Ashburner_Morphometry.pdf)
+    -[A short Introduction to LDDMM](https://ani.stat.fsu.edu/GFDW/Slides_Tutorials/Trouve.pdf)
