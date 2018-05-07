@@ -31,10 +31,11 @@
 - [Special Seminar by Marc Neithamme](https://www.youtube.com/watch?v=JkkuQ5ToWyQ&t=3094s)
 - [University of Waterloo](https://cs.uwaterloo.ca/~jorchard/cs473/CS473/Lectures.html)
 
-
 # Books :books:
 - [Medical Image Registration by Joseph V Hajnal, D.L.G Hill](https://www.crcpress.com/Medical-Image-Registration/Hajnal-Hill/p/book/9780849300646)
 - [Numerical Methods for Image Registration by Jan Modersitzki](http://www.cas.mcmaster.ca/~modersit/Projects/NM4IR.shtml)
 - [FAIR Flexible Algorithms for Image Registration](http://www.cas.mcmaster.ca/~modersit/FAIR/index.shtml)
+- [Mathematical Problems in Image Processing:Partial Differential Equations and Calculus of Variations](http://cds.cern.ch/record/1638145/files/9780387322001_TOC.pdf)
+
   
 
