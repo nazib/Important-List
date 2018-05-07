@@ -6,6 +6,9 @@
 - [Image Deformation Using Moving Least Squares](http://faculty.cs.tamu.edu/schaefer/research/mls.pdf)
 - [Diffeomorphic 3D Image Registration via Geodesic Shooting Using an Efficient Adjoint Calculation](https://link.springer.com/content/pdf/10.1007%2Fs11263-011-0481-8.pdf)
 - [Diffeomorphic registration using geodesic shooting and Gauss–Newton optimisation](https://www.sciencedirect.com/science/article/pii/S1053811910016496)
+- [Adversarial Image Registration with Application for MR and TRUS Image Fusion](https://arxiv.org/pdf/1804.11024v1.pdf)
+- [Deep Diffeomorphic Transformer Networks](http://www2.compute.dtu.dk/~sohau/papers/cvpr2018/detlefsen_cvpr_2018.pdf)
+- [A set of papers](http://www.arxiv-sanity.com/1609.05396)
 
 
 
