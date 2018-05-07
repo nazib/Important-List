@@ -5,6 +5,7 @@
 - [Variational Autoencoders for Deforming 3D Mesh Models](https://arxiv.org/pdf/1709.04307.pdf)
 - [Image Deformation Using Moving Least Squares](http://faculty.cs.tamu.edu/schaefer/research/mls.pdf)
 - [Diffeomorphic 3D Image Registration via Geodesic Shooting Using an Efficient Adjoint Calculation](https://link.springer.com/content/pdf/10.1007%2Fs11263-011-0481-8.pdf)
+- [Diffeomorphic registration using geodesic shooting and Gauss–Newton optimisation](https://www.sciencedirect.com/science/article/pii/S1053811910016496)
 
 
 
