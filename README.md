@@ -9,6 +9,7 @@
 - [Adversarial Image Registration with Application for MR and TRUS Image Fusion](https://arxiv.org/pdf/1804.11024v1.pdf)
 - [Deep Diffeomorphic Transformer Networks](http://www2.compute.dtu.dk/~sohau/papers/cvpr2018/detlefsen_cvpr_2018.pdf)
 - [A set of papers](http://www.arxiv-sanity.com/1609.05396)
+- [A Fast Diffeomorphic Image Registration Algorithm](https://www.sciencedirect.com/science/article/pii/S1053811907005848)
 
 
 
