@@ -18,11 +18,15 @@
   - [Difeomorphic Image Registration by Geodesic shooting](http://www.fil.ion.ucl.ac.uk/~john/misc/CMIC_ReadingGroup270511.pdf)
   - [Morphometric Analysis](http://www.sbirc.ed.ac.uk/cyril/SPM-course/Talks/2013/2-Ashburner_Morphometry.pdf)
   - [A short Introduction to LDDMM](https://ani.stat.fsu.edu/GFDW/Slides_Tutorials/Trouve.pdf)
+  - [Expectation Maximization](http://ai.stanford.edu/~chuongdo/papers/em_tutorial.pdf)
+  - []
   
 # Blogs :b:
 - GAN
   - [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/fro-GAN-to-WGAN.html)
 - [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
+- [Implementing Lucas-Kanade Optical Flow](http://www.cs.ucf.edu/~mikel/Research/Optical_Flow.htm)
+- [FINDING OPTIMAL ROTATION AND TRANSLATION BETWEEN CORRESPONDING 3D POINTS](http://nghiaho.com/?page_id=671#comment-13877)
  
 
 # Professor's Links :link:
@@ -37,6 +41,7 @@
 - [Numerical Methods for Image Registration by Jan Modersitzki](http://www.cas.mcmaster.ca/~modersit/Projects/NM4IR.shtml)
 - [FAIR Flexible Algorithms for Image Registration](http://www.cas.mcmaster.ca/~modersit/FAIR/index.shtml)
 - [Mathematical Problems in Image Processing:Partial Differential Equations and Calculus of Variations](http://cds.cern.ch/record/1638145/files/9780387322001_TOC.pdf)
+- [HUMAN BRAIN FUNCTION](http://www.fil.ion.ucl.ac.uk/spm/doc/books/hbf2/)
 
   
 
