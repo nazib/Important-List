@@ -28,7 +28,12 @@
 - [Implementing Lucas-Kanade Optical Flow](http://www.cs.ucf.edu/~mikel/Research/Optical_Flow.htm)
 - [FINDING OPTIMAL ROTATION AND TRANSLATION BETWEEN CORRESPONDING 3D POINTS](http://nghiaho.com/?page_id=671#comment-13877)
 - [Matlab's tours for Mesh processing and Partial Differential Equations](http://www.numerical-tours.com/matlab/#meshdeform)
- 
+- [Surface Extraction: Creating a mesh from pixel-data using Python and VTK](https://pyscience.wordpress.com/2014/09/11/surface-extraction-creating-a-mesh-from-pixel-data-using-python-and-vtk/)
+- [LOOPY BELIEF PROPAGATION, MARKOV RANDOM FIELD, STEREO VISION](http://nghiaho.com/?page_id=1366)
+- [RAVEH GONEN'S BLOG](https://ravehgonen.wordpress.com/)
+- [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
+- [Gaussian Mixture Models Tutorial and MATLAB Code](http://mccormickml.com/2014/08/04/gaussian-mixture-models-tutorial-and-matlab-code/)
+- [Image Processing Blog](https://angeljohnsy.blogspot.com/) 
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
@@ -36,6 +41,8 @@
 - [NPTL Medical Imaging](https://www.youtube.com/playlist?list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM)
 - [Special Seminar by Marc Neithamme](https://www.youtube.com/watch?v=JkkuQ5ToWyQ&t=3094s)
 - [University of Waterloo](https://cs.uwaterloo.ca/~jorchard/cs473/CS473/Lectures.html)
+- [ETHZ: Summer school on Biomedical Imaging](https://www.video.ethz.ch/lectures/d-itet/2013/autumn/227-0396-00L/0c0ba2ff-7c74-4059-ac21-4d4c522bcee0.html)
+
 
 # Books :books:
 - [Medical Image Registration by Joseph V Hajnal, D.L.G Hill](https://www.crcpress.com/Medical-Image-Registration/Hajnal-Hill/p/book/9780849300646)
