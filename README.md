@@ -19,7 +19,7 @@
   - [Morphometric Analysis](http://www.sbirc.ed.ac.uk/cyril/SPM-course/Talks/2013/2-Ashburner_Morphometry.pdf)
   - [A short Introduction to LDDMM](https://ani.stat.fsu.edu/GFDW/Slides_Tutorials/Trouve.pdf)
   - [Expectation Maximization](http://ai.stanford.edu/~chuongdo/papers/em_tutorial.pdf)
-  - []
+ 
   
 # Blogs :b:
 - GAN
@@ -27,6 +27,7 @@
 - [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 - [Implementing Lucas-Kanade Optical Flow](http://www.cs.ucf.edu/~mikel/Research/Optical_Flow.htm)
 - [FINDING OPTIMAL ROTATION AND TRANSLATION BETWEEN CORRESPONDING 3D POINTS](http://nghiaho.com/?page_id=671#comment-13877)
+- [Matlab's tours for Mesh processing and Partial Differential Equations](http://www.numerical-tours.com/matlab/#meshdeform)
  
 
 # Professor's Links :link:
