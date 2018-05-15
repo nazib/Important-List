@@ -34,6 +34,7 @@
 - [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
 - [Gaussian Mixture Models Tutorial and MATLAB Code](http://mccormickml.com/2014/08/04/gaussian-mixture-models-tutorial-and-matlab-code/)
 - [Image Processing Blog](https://angeljohnsy.blogspot.com/) 
+- [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
