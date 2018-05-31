@@ -35,6 +35,7 @@
 - [Gaussian Mixture Models Tutorial and MATLAB Code](http://mccormickml.com/2014/08/04/gaussian-mixture-models-tutorial-and-matlab-code/)
 - [Image Processing Blog](https://angeljohnsy.blogspot.com/) 
 - [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
+- [Understand Deep Residual Networks — a simple, modular learning framework that has redefined state-of-the-art](http://ias-user.qut.edu.au/login/?id=21789438:3&host=www.google.com&url=/&params=)
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
