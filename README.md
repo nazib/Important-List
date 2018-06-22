@@ -10,6 +10,8 @@
 - [Deep Diffeomorphic Transformer Networks](http://www2.compute.dtu.dk/~sohau/papers/cvpr2018/detlefsen_cvpr_2018.pdf)
 - [A set of papers](http://www.arxiv-sanity.com/1609.05396)
 - [A Fast Diffeomorphic Image Registration Algorithm](https://www.sciencedirect.com/science/article/pii/S1053811907005848)
+- [Attention U-Net:Learning Where to Look for the Pancreas](https://arxiv.org/pdf/1804.03999.pdf)
+- [Attention Gated Networks ](https://github.com/ozan-oktay/Attention-Gated-Networks)
 
 
 
