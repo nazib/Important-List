@@ -12,7 +12,9 @@
 - [A Fast Diffeomorphic Image Registration Algorithm](https://www.sciencedirect.com/science/article/pii/S1053811907005848)
 - [Attention U-Net:Learning Where to Look for the Pancreas](https://arxiv.org/pdf/1804.03999.pdf)
 - [Attention Gated Networks ](https://github.com/ozan-oktay/Attention-Gated-Networks)
-
+- [Adversarial Deformation Regularization for Training Image Registration Neural Networks](https://arxiv.org/pdf/1805.10665.pdf)
+- [Volumetric ConvNets with Mixed Residual Connections for Automated Prostate Segmentation from 3D MR Images](http://appsrv.cse.cuhk.edu.hk/~lqyu/papers/AAAI17_Prostate.pdf)
+- [LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](https://arxiv.org/pdf/1805.07036.pdf)
 
 
 # Interesting Lectures Slides :a:
@@ -56,6 +58,9 @@
 - [FAIR Flexible Algorithms for Image Registration](http://www.cas.mcmaster.ca/~modersit/FAIR/index.shtml)
 - [Mathematical Problems in Image Processing:Partial Differential Equations and Calculus of Variations](http://cds.cern.ch/record/1638145/files/9780387322001_TOC.pdf)
 - [HUMAN BRAIN FUNCTION](http://www.fil.ion.ucl.ac.uk/spm/doc/books/hbf2/)
+
+# Interesting Software Libraries :lib
+- [DeepMedic](https://biomedia.doc.ic.ac.uk/software/deepmedic/)
 
   
 
