@@ -62,5 +62,7 @@
 # Interesting Software Libraries :lib
 - [DeepMedic](https://biomedia.doc.ic.ac.uk/software/deepmedic/)
 
+# Reaserh and Papaer Writing :write
+- [CVPR Paper Writing](https://www.cc.gatech.edu/~parikh/citizenofcvpr/#/schedule)
   
 
