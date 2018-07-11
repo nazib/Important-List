@@ -15,7 +15,7 @@
 - [Adversarial Deformation Regularization for Training Image Registration Neural Networks](https://arxiv.org/pdf/1805.10665.pdf)
 - [Volumetric ConvNets with Mixed Residual Connections for Automated Prostate Segmentation from 3D MR Images](http://appsrv.cse.cuhk.edu.hk/~lqyu/papers/AAAI17_Prostate.pdf)
 - [LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](https://arxiv.org/pdf/1805.07036.pdf)
-
+- [A Large Deformation Diffeomorphic Approach to Registration of CLARITY Images via Mutual Information](https://arxiv.org/pdf/1612.00356.pdf)
 
 # Interesting Lectures Slides :a:
 - Difeomorphic Image Registration
