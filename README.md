@@ -66,4 +66,5 @@
 # Reaserh and Papaer Writing :write
 - [CVPR Paper Writing](https://www.cc.gatech.edu/~parikh/citizenofcvpr/#/schedule)
   
-
+# QUICK Installation Guids :guide
+- [CUDA 9+CUDNN 7](https://yangcha.github.io/CUDA90/)
