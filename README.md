@@ -24,7 +24,7 @@
   - [Morphometric Analysis](http://www.sbirc.ed.ac.uk/cyril/SPM-course/Talks/2013/2-Ashburner_Morphometry.pdf)
   - [A short Introduction to LDDMM](https://ani.stat.fsu.edu/GFDW/Slides_Tutorials/Trouve.pdf)
   - [Expectation Maximization](http://ai.stanford.edu/~chuongdo/papers/em_tutorial.pdf)
--B-spline
+-Bspline
   -[B-spline Regularization](http://campar.in.tum.de/twiki/pub/DefRegTutorial/WebHome/MICCAI_2010_Tutorial_Def_Reg_Marius.pdf)
  
   
