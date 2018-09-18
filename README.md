@@ -17,6 +17,9 @@
 - [LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](https://arxiv.org/pdf/1805.07036.pdf)
 - [A Large Deformation Diffeomorphic Approach to Registration of CLARITY Images via Mutual Information](https://arxiv.org/pdf/1612.00356.pdf)
 - [Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical Image Segmentation](https://arxiv.org/pdf/1609.01006.pdf)
+- [Joint CS-MRI Reconstruction and Segmentation with a Unified Deep Network](https://arxiv.org/pdf/1805.02165.pdf)
+-[AI transforms image reconstruction](https://www.nature.com/articles/nmeth.4678)
+-[Image Reconstruction is a New Frontier of Machine Learning](https://ieeexplore.ieee.org/document/8359079/)
 
 # Interesting Lectures Slides :a:
 - Difeomorphic Image Registration
