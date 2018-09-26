@@ -20,6 +20,7 @@
 - [Joint CS-MRI Reconstruction and Segmentation with a Unified Deep Network](https://arxiv.org/pdf/1805.02165.pdf)
 - [AI transforms image reconstruction](https://www.nature.com/articles/nmeth.4678)
 - [Image Reconstruction is a New Frontier of Machine Learning](https://ieeexplore.ieee.org/document/8359079/)
+- [HDM-Net: Monocular Non-Rigid 3D Reconstruction with Learned Deformation Model](https://arxiv.org/pdf/1803.10193.pdf)
 
 # Interesting Lectures Slides :a:
 - Difeomorphic Image Registration
