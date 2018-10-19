@@ -21,7 +21,7 @@
 - [AI transforms image reconstruction](https://www.nature.com/articles/nmeth.4678)
 - [Image Reconstruction is a New Frontier of Machine Learning](https://ieeexplore.ieee.org/document/8359079/)
 - [HDM-Net: Monocular Non-Rigid 3D Reconstruction with Learned Deformation Model](https://arxiv.org/pdf/1803.10193.pdf)
-
+- [Linear and Deformable Image Registration with 3D Convolutional Neural Networks](https://arxiv.org/pdf/1809.06226.pdf)
 # Interesting Lectures Slides :a:
 - Difeomorphic Image Registration
   - [Difeomorphic Image Registration by Geodesic shooting](http://www.fil.ion.ucl.ac.uk/~john/misc/CMIC_ReadingGroup270511.pdf)
