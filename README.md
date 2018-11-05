@@ -58,6 +58,7 @@
 - [ETHZ: Summer school on Biomedical Imaging](https://www.video.ethz.ch/lectures/d-itet/2013/autumn/227-0396-00L/0c0ba2ff-7c74-4059-ac21-4d4c522bcee0.html)
 - [SPM Course Videos](http://www.fil.ion.ucl.ac.uk/spm/course/video/)
 - [MRI Online Course](https://www.imaios.com/en/e-Courses/e-MRI)
+- [Simple Mathematics Explanation](https://www.youtube.com/c/3blue1brown)
 
 # Books :books:
 - [Medical Image Registration by Joseph V Hajnal, D.L.G Hill](https://www.crcpress.com/Medical-Image-Registration/Hajnal-Hill/p/book/9780849300646)
