@@ -23,6 +23,9 @@
 - [HDM-Net: Monocular Non-Rigid 3D Reconstruction with Learned Deformation Model](https://arxiv.org/pdf/1803.10193.pdf)
 - [Linear and Deformable Image Registration with 3D Convolutional Neural Networks](https://arxiv.org/pdf/1809.06226.pdf)
 - [On the Adaptability of Unsupervised CNN-Based Deformable Image Registration to Unseen Image Domains](https://link.springer.com/chapter/10.1007/978-3-030-00919-9_34)
+- [PVR: Patch-to-Volume Reconstruction for Large Area Motion Correction of Fetal MRI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8024032)
+- [Fully Automatic Localization and Segmentation of 3D Vertebral Bodies from CT/MR Images via a Learning-Based Method]
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4658120/pdf/pone.0143327.pdf)
 # Interesting Lectures Slides :a:
 - Difeomorphic Image Registration
   - [Difeomorphic Image Registration by Geodesic shooting](http://www.fil.ion.ucl.ac.uk/~john/misc/CMIC_ReadingGroup270511.pdf)
