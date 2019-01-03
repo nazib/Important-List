@@ -26,6 +26,7 @@
 - [PVR: Patch-to-Volume Reconstruction for Large Area Motion Correction of Fetal MRI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8024032)
 - [Fully Automatic Localization and Segmentation of 3D Vertebral Bodies from CT/MR Images via a Learning-Based Method]
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4658120/pdf/pone.0143327.pdf)
+- [LEARN TO PAY ATTENTION](https://openreview.net/pdf?id=HyzbhfWRW)
 # Interesting Lectures Slides :a:
 - Difeomorphic Image Registration
   - [Difeomorphic Image Registration by Geodesic shooting](http://www.fil.ion.ucl.ac.uk/~john/misc/CMIC_ReadingGroup270511.pdf)
