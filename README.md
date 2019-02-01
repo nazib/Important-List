@@ -71,6 +71,9 @@
 - [FAIR Flexible Algorithms for Image Registration](http://www.cas.mcmaster.ca/~modersit/FAIR/index.shtml)
 - [Mathematical Problems in Image Processing:Partial Differential Equations and Calculus of Variations](http://cds.cern.ch/record/1638145/files/9780387322001_TOC.pdf)
 - [HUMAN BRAIN FUNCTION](http://www.fil.ion.ucl.ac.uk/spm/doc/books/hbf2/)
+- [Matrix CookBook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
+- [DIFFERENTIAL GEOMETRICAL THEORY OF STATISTICS](https://projecteuclid.org/download/pdf_1/euclid.lnms/1215467059)
+-
 
 # Interesting Software Libraries :lib
 - [DeepMedic](https://biomedia.doc.ic.ac.uk/software/deepmedic/)
