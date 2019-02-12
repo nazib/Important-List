@@ -27,6 +27,7 @@
 - [Fully Automatic Localization and Segmentation of 3D Vertebral Bodies from CT/MR Images via a Learning-Based Method]
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4658120/pdf/pone.0143327.pdf)
 - [LEARN TO PAY ATTENTION](https://openreview.net/pdf?id=HyzbhfWRW)
+- [UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss](https://arxiv.org/pdf/1711.07837.pdf)
 # Interesting Lectures Slides :a:
 - Difeomorphic Image Registration
   - [Difeomorphic Image Registration by Geodesic shooting](http://www.fil.ion.ucl.ac.uk/~john/misc/CMIC_ReadingGroup270511.pdf)
