@@ -54,6 +54,7 @@
 - [Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
 - [Understand Deep Residual Networks — a simple, modular learning framework that has redefined state-of-the-art](http://ias-user.qut.edu.au/login/?id=21789438:3&host=www.google.com&url=/&params=)
 - [Agustinus Kristiadi's Blog](https://wiseodd.github.io/techblog/)
+- [Deep Diffeomorphic Normalizing Flows](https://www.groundai.com/project/deep-diffeomorphic-normalizing-flows/)
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
