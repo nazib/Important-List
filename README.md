@@ -55,6 +55,7 @@
 - [Understand Deep Residual Networks — a simple, modular learning framework that has redefined state-of-the-art](http://ias-user.qut.edu.au/login/?id=21789438:3&host=www.google.com&url=/&params=)
 - [Agustinus Kristiadi's Blog](https://wiseodd.github.io/techblog/)
 - [Deep Diffeomorphic Normalizing Flows](https://www.groundai.com/project/deep-diffeomorphic-normalizing-flows/)
+- [Tutorial on Gibbs Sampling for uninitiated](https://drum.lib.umd.edu/bitstream/handle/1903/10058/gsfu.pdf?sequence=3&isAllowed=y)
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
