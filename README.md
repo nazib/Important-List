@@ -56,6 +56,7 @@
 - [Agustinus Kristiadi's Blog](https://wiseodd.github.io/techblog/)
 - [Deep Diffeomorphic Normalizing Flows](https://www.groundai.com/project/deep-diffeomorphic-normalizing-flows/)
 - [Tutorial on Gibbs Sampling for uninitiated](https://drum.lib.umd.edu/bitstream/handle/1903/10058/gsfu.pdf?sequence=3&isAllowed=y)
+- [Gaussian Process](http://www.gaussianprocess.org/)
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
