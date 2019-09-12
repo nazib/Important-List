@@ -58,6 +58,7 @@
 - [Tutorial on Gibbs Sampling for uninitiated](https://drum.lib.umd.edu/bitstream/handle/1903/10058/gsfu.pdf?sequence=3&isAllowed=y)
 - [Gaussian Process](http://www.gaussianprocess.org/)
 - [DeepLearning in Depth](http://neuralnetworksanddeeplearning.com)
+- [First AI Courses](https://www.fast.ai/) 
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
