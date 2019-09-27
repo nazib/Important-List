@@ -79,7 +79,10 @@
 - [HUMAN BRAIN FUNCTION](http://www.fil.ion.ucl.ac.uk/spm/doc/books/hbf2/)
 - [Matrix CookBook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
 - [DIFFERENTIAL GEOMETRICAL THEORY OF STATISTICS](https://projecteuclid.org/download/pdf_1/euclid.lnms/1215467059)
--
+# Gaussian Process and Bayesian NN:
+- [Gaussian Processes for Little Data](https://medium.com/panoramic/gaussian-processes-for-little-data-2501518964e4)
+- [Thesis:BAYESIAN LEARNING FOR NEURAL NETWORKS](http://www.cs.toronto.edu/~radford/ftp/thesis.pdf)
+- [Gaussian process behaviour in wide deep neural networks](https://arxiv.org/pdf/1804.11271.pdf)
 
 # Interesting Software Libraries :lib
 - [DeepMedic](https://biomedia.doc.ic.ac.uk/software/deepmedic/)
