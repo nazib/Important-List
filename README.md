@@ -59,7 +59,7 @@
 - [Gaussian Process](http://www.gaussianprocess.org/)
 - [DeepLearning in Depth](http://neuralnetworksanddeeplearning.com)
 - [First AI Courses](https://www.fast.ai/) 
-- [https://martinopilia.com/posts/2018/09/23/goupwise-landmark-registration.html](Groupwise LandMark Registration with Elastix)
+- [Groupwise LandMark Registration with Elastix](https://martinopilia.com/posts/2018/09/23/goupwise-landmark-registration.html)
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
