@@ -60,6 +60,7 @@
 - [DeepLearning in Depth](http://neuralnetworksanddeeplearning.com)
 - [First AI Courses](https://www.fast.ai/) 
 - [Groupwise LandMark Registration with Elastix](https://martinopilia.com/posts/2018/09/23/goupwise-landmark-registration.html)
+- [www.google.com](0434 470 121)
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
