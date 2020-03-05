@@ -61,6 +61,7 @@
 - [First AI Courses](https://www.fast.ai/) 
 - [Groupwise LandMark Registration with Elastix](https://martinopilia.com/posts/2018/09/23/goupwise-landmark-registration.html)
 - [www.google.com](0434 470 121)
+- [Chapterwise Implementation of Pattern Recognition](https://github.com/ctgk/PRML?fbclid=IwAR3AWAY1t0N4vudAKULVUIH42r2fFr696t_nqpzelZOOYOAdqpfPcJvh2lU)
 
 # Professor's Links :link:
 - [CM Medical Imaging](http://www.cs.cmu.edu/~galeotti/methods_course/)
